@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GxUp shoka",
+    "subtitle": "",
+    "icon": "http://gux-hue.github.io/images/favicon.ico",
+    "description": "",
+    "home_page_url": "http://gux-hue.github.io",
+    "items": [
+        {
+            "id": "http://gux-hue.github.io/2022/10/09/new/",
+            "url": "http://gux-hue.github.io/2022/10/09/new/",
+            "title": "new",
+            "date_published": "2022-10-09T07:23:21.000Z",
+            "content_html": "<p>空的内容</p>\n",
+            "tags": [
+                "测试"
+            ]
+        },
+        {
+            "id": "http://gux-hue.github.io/2022/10/09/second/",
+            "url": "http://gux-hue.github.io/2022/10/09/second/",
+            "title": "second",
+            "date_published": "2022-10-09T07:23:21.000Z",
+            "content_html": "<p>空的内容</p>\n",
+            "tags": [
+                "测试"
+            ]
+        },
+        {
+            "id": "http://gux-hue.github.io/2022/10/09/third/",
+            "url": "http://gux-hue.github.io/2022/10/09/third/",
+            "title": "third",
+            "date_published": "2022-10-09T07:23:21.000Z",
+            "content_html": "<p>空的内容</p>\n",
+            "tags": [
+                "测试"
+            ]
+        },
+        {
+            "id": "http://gux-hue.github.io/2022/08/29/first-files/",
+            "url": "http://gux-hue.github.io/2022/08/29/first-files/",
+            "title": "first files",
+            "date_published": "2022-08-29T07:28:18.000Z",
+            "content_html": "<h1 id=\"标签\"><a class=\"anchor\" href=\"#标签\">#</a> 标签</h1>\n<p><div class=\"links\"><div class=\"item\" title=\"霜月琉璃\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\" data-background-image=\"/images/avatar.jpg\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\">優萌初華</span>\n          <p class=\"desc\">https://shoka.lostyu.me</p>\n          </div></div><div class=\"item\" title=\"優萌初華\" style=\"--block-color:#9d5b8b;\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\" data-background-image=\"/images/404.png\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\">優萌初華</span>\n          <p class=\"desc\">琉璃的医学 & 编程笔记</p>\n          </div></div></div></p>\n<h1 id=\"音乐\"><a class=\"anchor\" href=\"#音乐\">#</a> 音乐</h1>\n<p><div class=\"media-container\"><div class=\"player\" data-type=\"audio\" data-src='[{\"title\":\"列表 1\",\"list\":[\"https://music.163.com/#/playlist?id=2943811283\",\"https://music.163.com/#/playlist?id=2297706586\"]},{\"title\":\"列表 2\",\"list\":[\"https://music.163.com/#/playlist?id=2031842656\"]}]'></div></div></p>\n<h1 id=\"视频\"><a class=\"anchor\" href=\"#视频\">#</a> 视频</h1>\n<p><div class=\"media-container\"><div class=\"player\" data-type=\"video\" data-src='[{\"name\":\"测试 1\",\"url\":\"https://cdn.kastatic.org/ka-youtube-converted/O_nY1TM2RZM.mp4/O_nY1TM2RZM.mp4#t=0\"},{\"name\":\"测试 2\",\"url\":\"https://cdn.kastatic.org/ka-youtube-converted/O_nY1TM2RZM.mp4/O_nY1TM2RZM.mp4#t=0\"}]'></div></div></p>\n<figure class=\"highlight java\"><figcaption data-lang=\"java\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">private</span> <span class=\"token class-name\">String</span> name<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre></pre></td></tr><tr><td data-num=\"3\"></td><td><pre>dgg</pre></td></tr></table></figure>",
+            "tags": [
+                "测试"
+            ]
+        },
+        {
+            "id": "http://gux-hue.github.io/2022/08/29/hello-world/",
+            "url": "http://gux-hue.github.io/2022/08/29/hello-world/",
+            "title": "Hello World",
+            "date_published": "2022-08-29T03:58:59.860Z",
+            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": []
+        }
+    ]
+}
