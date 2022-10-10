@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>second</title>
+      <link href="/2022/10/09/second/"/>
+      <url>/2022/10/09/second/</url>
+      
+        <content type="html"><![CDATA[<p>空的内容</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>new</title>
+      <link href="/2022/10/09/new/"/>
+      <url>/2022/10/09/new/</url>
+      
+        <content type="html"><![CDATA[<p>空的内容</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>third</title>
+      <link href="/2022/10/09/third/"/>
+      <url>/2022/10/09/third/</url>
+      
+        <content type="html"><![CDATA[<p>空的内容</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>first files</title>
+      <link href="/2022/08/29/first-files/"/>
+      <url>/2022/08/29/first-files/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标签"><a class="anchor" href="#标签">#</a> 标签</h1><p><div class="links"><div class="item" title="霜月琉璃"><span class="exturl image" data-url="aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=" data-background-image="/images/avatar.jpg"></span>          <div class="info">          <span class="exturl title" data-url="aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=">優萌初華</span>          <p class="desc">https://shoka.lostyu.me</p>          </div></div><div class="item" title="優萌初華" style="--block-color:#9d5b8b;"><span class="exturl image" data-url="aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=" data-background-image="/images/404.png"></span>          <div class="info">          <span class="exturl title" data-url="aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=">優萌初華</span>          <p class="desc">琉璃的医学 & 编程笔记</p>          </div></div></div></p><h1 id="音乐"><a class="anchor" href="#音乐">#</a> 音乐</h1><p><div class="media-container"><div class="player" data-type="audio" data-src='[{"title":"列表 1","list":["https://music.163.com/#/playlist?id=2943811283","https://music.163.com/#/playlist?id=2297706586"]},{"title":"列表 2","list":["https://music.163.com/#/playlist?id=2031842656"]}]'></div></div></p><h1 id="视频"><a class="anchor" href="#视频">#</a> 视频</h1><p><div class="media-container"><div class="player" data-type="video" data-src='[{"name":"测试 1","url":"https://cdn.kastatic.org/ka-youtube-converted/O_nY1TM2RZM.mp4/O_nY1TM2RZM.mp4#t=0"},{"name":"测试 2","url":"https://cdn.kastatic.org/ka-youtube-converted/O_nY1TM2RZM.mp4/O_nY1TM2RZM.mp4#t=0"}]'></div></div></p><figure class="highlight java"><figcaption data-lang="java"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">private</span> <span class="token class-name">String</span> name<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre></pre></td></tr><tr><td data-num="3"></td><td><pre>dgg</pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/08/29/hello-world/"/>
+      <url>/2022/08/29/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub</span>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
