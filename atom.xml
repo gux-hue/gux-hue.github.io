@@ -10,18 +10,18 @@
     </author>
     <updated>2022-10-09T07:23:21.000Z</updated>
     <entry>
-        <id>http://gux-hue.github.io/2022/10/09/second/</id>
-        <title>second</title>
-        <link rel="alternate" href="http://gux-hue.github.io/2022/10/09/second/"/>
+        <id>http://gux-hue.github.io/2022/10/09/new/</id>
+        <title>new</title>
+        <link rel="alternate" href="http://gux-hue.github.io/2022/10/09/new/"/>
         <content type="html">&lt;p&gt;空的内容&lt;/p&gt;
 </content>
         <category term="测试" scheme="http://gux-hue.github.io/tags/%E6%B5%8B%E8%AF%95/" />
         <updated>2022-10-09T07:23:21.000Z</updated>
     </entry>
     <entry>
-        <id>http://gux-hue.github.io/2022/10/09/new/</id>
-        <title>new</title>
-        <link rel="alternate" href="http://gux-hue.github.io/2022/10/09/new/"/>
+        <id>http://gux-hue.github.io/2022/10/09/second/</id>
+        <title>second</title>
+        <link rel="alternate" href="http://gux-hue.github.io/2022/10/09/second/"/>
         <content type="html">&lt;p&gt;空的内容&lt;/p&gt;
 </content>
         <category term="测试" scheme="http://gux-hue.github.io/tags/%E6%B5%8B%E8%AF%95/" />
